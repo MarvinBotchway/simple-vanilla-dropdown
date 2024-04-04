@@ -1,0 +1,35 @@
+{
+  "name": "simple-vanilla-dropdown",
+  "version": "1.0.0",
+  "description": "A Simple Dropdown Created With Vanilla JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarvinBotchway/simple-vanilla-dropdown.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "Marvin Botchway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarvinBotchway/simple-vanilla-dropdown/issues"
+  },
+  "homepage": "https://github.com/MarvinBotchway/simple-vanilla-dropdown#readme",
+  "devDependencies": {
+    "css-loader": "^6.11.0",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "html-loader": "^5.0.0",
+    "html-webpack-plugin": "^5.6.0",
+    "style-loader": "^3.3.4",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
